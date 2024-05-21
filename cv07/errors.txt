@@ -1,0 +1,9 @@
+False 1 Elisabeth Hohenwarter
+False 3 Nadya Mikryukova
+False 8 Pernille Brunstedt
+False 5 Erik Skovgaard Knudsen
+False 5 Lasse Brun Pedersen
+False 9 Jean Charles Lalevee
+False 12 Juan Sancosmed
+False 12 Miguel Ramo
+False 15 Keichi Tamaki
